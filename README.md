@@ -42,7 +42,7 @@ The `main()` function generates fake data and saves it to 100 Excel files. Each 
 ## Usage
 To run the script, execute the following command in your terminal:
 ```bash
-python script_name.py
+python python script_name.py.py
 ```
 
 ## Example Output
